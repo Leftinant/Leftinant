@@ -4,6 +4,8 @@
     Hi, BigBen here 👋!
   </span>
 </div>
+<span style="color: red; font-size: 24px;">This is red and larger text</span>
+
 
 # ⚖️ About Me 
 An innovative Software  Engineer based in Kenya. <br>
