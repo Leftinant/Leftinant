@@ -1,5 +1,5 @@
-<div align="center">
-# Hi, I'm Ben 👋
+<div align="center"; fontsize=2em; color: Blue;>
+Hi, BigBen here 👋!
 </div>
 
 ## ⚖️ About Me 
