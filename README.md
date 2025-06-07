@@ -5,7 +5,7 @@
   </span>
 </div>
 
-## ⚖️ About Me 
+# ⚖️ About Me 
 An innovative Software  Engineer based in Kenya. <br>
 I'm dedicated to efficiently solving problems and creating impactful digital experiences.
 
@@ -19,7 +19,7 @@ I'm dedicated to efficiently solving problems and creating impactful digital exp
   </a>
 </div>
 
-## 🚀 My Tech Stack
+# 🚀 My Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
