@@ -1,3 +1,7 @@
+<div align="center">
+**This text will be centered**
+</div>
+
 #### Hi, I'm Ben 👋
 
 ## ⚖️ About Me 
