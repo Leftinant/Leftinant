@@ -1,6 +1,6 @@
 ##
 <div align="center">
-    *Hi, BigBen here 👋!*
+    Hi, BigBen here 👋!
 </div>
 
 # ⚖️ About Me 
