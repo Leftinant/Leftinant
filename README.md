@@ -1,5 +1,5 @@
 <div align="center">
-  <span style="color: blue; font-size: 24px;">
+  <span style="color: blue; font-size: 24;">
     Hi, BigBen here 👋!
   </span>
 </div>
