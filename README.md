@@ -4,7 +4,10 @@
     Hi, BigBen here 👋!
   </span>
 </div>
-<span style="color: red; font-size: 24px;">This is red and larger text</span>
+![Red](https://img.shields.io/badge/Text-Red-red)
+![Blue](https://img.shields.io/badge/Text-Blue-blue)
+![Green](https://img.shields.io/badge/Text-Green-brightgreen)
+
 
 
 # ⚖️ About Me 
