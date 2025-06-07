@@ -1,8 +1,6 @@
 <div align="center">
-**This text will be centered**
+# Hi, I'm Ben 👋
 </div>
-
-#### Hi, I'm Ben 👋
 
 ## ⚖️ About Me 
 An innovative Software  Engineer based in Kenya. 
