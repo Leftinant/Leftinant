@@ -1,14 +1,7 @@
 ##
 <div align="center">
-  <span style="color: blue; font-size: 24;">
-    Hi, BigBen here 👋!
-  </span>
+    *Hi, BigBen here 👋!*
 </div>
-![Red](https://img.shields.io/badge/Text-Red-red)
-![Blue](https://img.shields.io/badge/Text-Blue-blue)
-![Green](https://img.shields.io/badge/Text-Green-brightgreen)
-
-
 
 # ⚖️ About Me 
 An innovative Software  Engineer based in Kenya. <br>
