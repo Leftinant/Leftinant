@@ -7,14 +7,14 @@
 
 ## ⚖️ About Me 
 An innovative Software  Engineer based in Kenya. 
-I'm dedicated to efficiently solving problems and creating impactful digital experiences.
+I'm dedicated to efficiently solving problems and creating impactful digital experiences.https://www.linkedin.com/in/benjamin-ayasa-3a311a36a
 
 <div align="right">
   <b>Follow Me </b>on:<br>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/benjamin-ayasa-3a311a36a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="ayasa-benjamin.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
@@ -43,7 +43,6 @@ I'm dedicated to efficiently solving problems and creating impactful digital exp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
