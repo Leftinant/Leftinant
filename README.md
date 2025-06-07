@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/benjamin-ayasa-3a311a36a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="ayasa-benjamin.netlify.app" target="_blank">
+  <a href="https://www.ayasa-benjamin.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
