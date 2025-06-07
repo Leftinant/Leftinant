@@ -4,9 +4,9 @@
 </div>
 
 # ⚖️ About Me 
-* I'm Benjamin. <br> 
-An innovative Software  Engineer based in Kenya. <br>
-I'm dedicated to efficiently solving problems and creating impactful digital experiences. <br>
+<b>I'm Benjamin. </b><br> 
+<b>An innovative Software  Engineer based in Kenya. </b><br>
+<b>I'm dedicated to efficiently solving problems and creating impactful digital experiences. </b><br>
 
 <div align="right">
   <b>🌟 Follow Me </b>on:<br>
