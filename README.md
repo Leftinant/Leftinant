@@ -1,6 +1,7 @@
-##
-<div align="center" fontsize=2em; color: Blue;>
-Hi, BigBen here 👋!
+<div align="center">
+  <span style="color: blue; font-size: 24px;">
+    Hi, BigBen here 👋!
+  </span>
 </div>
 
 ## ⚖️ About Me 
