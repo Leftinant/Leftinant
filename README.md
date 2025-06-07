@@ -49,6 +49,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leftinant&show_icons=true&theme=tokyonight)
+![Leftinant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leftinant&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leftinant&layout=compact&theme=tokyonight)
