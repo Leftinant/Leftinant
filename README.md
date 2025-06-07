@@ -12,6 +12,7 @@ I'm dedicated to efficiently solving problems and creating impactful digital exp
 <div align="right">
   <b>Follow Me </b>on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-ayasa-3a311a36a/) 
+</div>
 
 ### 🛠️ Languages and Tools I Use
 
