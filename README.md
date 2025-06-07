@@ -6,11 +6,11 @@
 </div>
 
 ## ⚖️ About Me 
-An innovative Software  Engineer based in Kenya. 
+An innovative Software  Engineer based in Kenya. <br>
 I'm dedicated to efficiently solving problems and creating impactful digital experiences.
 
 <div align="right">
-  <b>🌟 Follow Me </b>on:<br>
+  <b>🌟 Follow Me </b>on:<br><br>
   <a href="https://www.linkedin.com/in/benjamin-ayasa-3a311a36a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
