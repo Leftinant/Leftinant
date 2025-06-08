@@ -1,6 +1,6 @@
 ##
 <div align="center">
-    Hi, BigBen here 👋!
+    <i>Hi, BigBen here 👋!</i>
 </div>
 
 # ⚖️ About Me 
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![Leftinant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leftinant&show_icons=true&theme=tokyonight)
 
