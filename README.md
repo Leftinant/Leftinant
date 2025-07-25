@@ -36,16 +36,6 @@
 
 ---
 
-## 🧰 Featured Projects
-
-| Project | Tech | Demo |
-|--------|------|------|
-| 🐞 [Bug Tracker](https://github.com/Leftinant/BugTracker) | MERN, Tailwind, DaisyUI | [Live Demo](https://leftinant-bugtracker.netlify.app) |
-| 📰 [MERN Blog](https://github.com/Leftinant/BlogApp) | React, Express, MongoDB | [Live Demo](https://leftinant-blog.netlify.app) |
-| 💬 [Real-time Chat App](https://github.com/Leftinant/ChatApp) | Socket.IO, Node.js | Coming soon |
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leftinant&show_icons=true&theme=tokyonight)
@@ -67,14 +57,6 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Leftinant&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
-
-<!-- Optional: WakaTime -->
-<!--
-## ⏳ Weekly Coding Stats
-<!-- Remove the comment tag after linking your WakaTime profile -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
--->
 
 <!-- Optional: Contribution snake -->
 <!--
