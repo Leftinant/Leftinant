@@ -52,9 +52,9 @@
 
 ---
 
-## 🧮 Visitors
+## Snake
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=Leftinant&label=Profile%20views&color=0e75b6&style=flat)
+![Contribution Snake Dark](https://raw.githubusercontent.com/Leftinant/Leftinant/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ---
 
