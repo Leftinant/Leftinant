@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80" />
-  <h1>Hi, I'm Benjamin Ayasa 👋</h1>
+  <h1>Hi, BigBen here 👋</h1>
   <i>Innovative Software Engineer | Building impactful digital experiences 🌍</i>
 </div>
 
