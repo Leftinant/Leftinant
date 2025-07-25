@@ -1,7 +1,7 @@
 <!-- Profile README for Benjamin Ayasa -->
 
 <div align="center">
-  <img src="https://giphy.com/gifs/PizzaNinjas-coding-pizza-ninjas-pizzaninjas-jBOOXxSJfG8kqMxT11" width="100" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenF5cTFwejM0ajB6cHU0NGZzeGs1anRydW03NXdtajUyYzNlM3B4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="100" />
   <h1>Hi, BigBen here 👋</h1>
   <i>Innovative Software Engineer | Building impactful digital experiences 🌍</i>
 </div>
