@@ -1,5 +1,3 @@
-<!-- Profile README for Benjamin Ayasa -->
-
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenF5cTFwejM0ajB6cHU0NGZzeGs1anRydW03NXdtajUyYzNlM3B4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="100" />
   <h1>Hi, BigBen here 👋</h1>
@@ -61,6 +59,12 @@
   </a>
 </table>
 </div>
+
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Leftinant&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
