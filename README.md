@@ -32,32 +32,50 @@
 <table>
     <a href="https://skillicons.dev">
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=c" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px; "/></td>
-    <td><img src="https://skillicons.dev/icons?i=css" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px; "/></td>    
-    <td><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /></td>
-    <td><img src="https://skillicons.dev/icons?i=express" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px; "/></td>
-    <td><img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px; "/></td>    
-    <td><img src="https://skillicons.dev/icons?i=git" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px; "/></td>
-    <td><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></td>
-    <td><img src="https://skillicons.dev/icons?i=html" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px; "/></td>
-    <td><img src="https://skillicons.dev/icons?i=idea" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px; "/></td>
-    <td><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /></td>
-   
+    <th colspan="10" style="text-align:left; font-size: 1.2rem; padding: 10px 0;">🖼️ Frontend</th>
+  </tr>      
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="65" /></td>
+    <td><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" /></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" /></td>
+    <td><img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" width="65" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" /></td>
+  </tr>
+      
+  <tr>
+    <th colspan="10" style="text-align:left; font-size: 1.2rem; padding: 10px 0;">🔧 Backend</th>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px; "/></td>
-    <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /></td>
-    <td><img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px; "/></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px; "/></td>
-    <td><img src="https://skillicons.dev/icons?i=postman" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px; "/></td>
-    <td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /></td>
-    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /></td>
-    <td><img src="https://skillicons.dev/icons?i=tailwindcss" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px; "/></td>
-    <td><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px; "/></td>
+    <td><img src="https://skillicons.dev/icons?i=c" alt="C" width="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" /></td>
+    <td><img src="https://skillicons.dev/icons?i=express" alt="Express" width="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" /></td>    
   </tr>
-  </a>
+
+  <tr>
+    <th colspan="10" style="text-align:left; font-size: 1.2rem; padding: 10px 0;">🗄️ Database</th>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" /></td>
+  </tr>
+
+  <tr>
+    <th colspan="10" style="text-align:left; font-size: 1.2rem; padding: 10px 0;">🗂️ Version Control / Tools</th>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" /></td>
+    <td><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="65" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="65" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="65" /></td>
+  </tr>
 </table>
+
 </div>
 
 ---
